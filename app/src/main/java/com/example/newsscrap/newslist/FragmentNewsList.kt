@@ -14,6 +14,7 @@ import com.example.newsscrap.data.News
 import com.example.newsscrap.data.NewsApiService
 import com.example.newsscrap.data.NewsApplication
 import com.example.newsscrap.databinding.FragmentNewsListBinding
+import com.example.newsscrap.databinding.FragmentSettingsBinding
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

@@ -8,7 +8,6 @@
     tools:context=".settings.FragmentSettings">
 
     <TextView
-        android:text="@string/settings"
         android:textSize="50dp"
         android:id="@+id/tvSettings"
         android:layout_width="wrap_content"
